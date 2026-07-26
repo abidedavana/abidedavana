@@ -159,15 +159,5 @@ Ships labelled datasets and a non-circular detectability study — the headline 
 
 </div>
 
----
-
-<div align="center">
-<sub>
-
-**How to read this profile** — most of these were built in short, focused bursts, so read them as evidence of
-threat modeling, judgment and shipping speed. The depth is in the code and the published results, not the commit counts.
-Tests and CI are the norm: **159** in Bridge · **103** in Gatekeeper · **92** in mcpscan.
-
-</sub>
 </div>
 
