@@ -2,7 +2,7 @@
 
 # Abid Edavana Zakir
 
-### Cybersecurity student · I build security tooling for AI systems and the software supply chain
+### Cybersecurity Graduate · I build security tooling for AI systems and the software supply chain
 
 Guardrails on autonomous agents · a runtime gateway for LLM apps · scanners for the places you can still act *before* code runs
 
@@ -17,7 +17,6 @@ Guardrails on autonomous agents · a runtime gateway for LLM apps · scanners fo
 
 > Working tools with tests and CI — not write-ups.
 > Where a tool has limits, the repo says so out loud.
-> I also send patches upstream to the security tools I use — **[OWASP ZAP, AWS s2n-tls, Trivy, Prowler, cloud-init ↓](#-upstream-open-source-contributions)**
 
 ---
 
@@ -75,14 +74,7 @@ unfamiliar codebases, to each project's own review process.
 | Project | Contribution | Status |
 |---|---|---|
 | [**supabase/supavisor**](https://github.com/supabase/supavisor/pull/1074) | Documented the `citext` + `pgbouncer=true` slowdown and its remedy | ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
-| [**zaproxy/zap-extensions**](https://github.com/zaproxy/zap-extensions/pull/7538) <sub>OWASP ZAP</sub> | Cache static resources during a client spider crawl (+684 lines) | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) ![discussion](https://img.shields.io/badge/5_comments-blue?style=flat-square) |
-| [**aws/s2n-tls**](https://github.com/aws/s2n-tls/pull/5985) | Allow the session cache to be enabled before setting cache callbacks | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) |
-| [**aws/s2n-tls**](https://github.com/aws/s2n-tls/pull/5995) | Add a mutual-TLS example to the Rust bindings | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) |
-| [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy/pull/10956) | Fix a race on `GIT_TERMINAL_PROMPT` in the Terraform remote-module resolver | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) |
-| [**canonical/cloud-init**](https://github.com/canonical/cloud-init/pull/6928) | Create scratch-dir ancestors with mode `0700` (permissions hardening) | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) |
-| [**prowler-cloud/prowler**](https://github.com/prowler-cloud/prowler/pull/11913) | New check: `oss_bucket_versioning_enabled` for Alibaba Cloud | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) |
 
-<sub>Also reviewed PRs on aws/s2n-tls and canonical/cloud-init, and reported an issue on zaproxy/zaproxy.</sub>
 
 ---
 
